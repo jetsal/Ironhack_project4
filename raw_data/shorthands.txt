@@ -1,0 +1,3 @@
+CPI = corruption index
+pop_dnst = population density
+owid-covid-data = our world in data covid data (incl GDP)
